@@ -1,3 +1,9 @@
+# Filesystems
+.DS_Store
+
+# IDE prefs
+.vscode/*
+
 # Logs
 logs
 *.log
